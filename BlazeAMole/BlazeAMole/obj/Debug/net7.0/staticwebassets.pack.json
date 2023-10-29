@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Cursos\\BlazeAMole\\BlazeAMole\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Cursos\\BlazeAMole\\BlazeAMole\\obj\\Debug\\net7.0\\build-gz\\NvZ3GHEx.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\Cursos\\BlazeAMole\\BlazeAMole\\obj\\Debug\\net7.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "D:\\Cursos\\BlazeAMole\\BlazeAMole\\obj\\Debug\\net7.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "D:\\Cursos\\BlazeAMole\\BlazeAMole\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\Cursos\\BlazeAMole\\BlazeAMole\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "D:\\Cursos\\BlazeAMole\\BlazeAMole\\wwwroot\\img\\feliz.png",
+      "PackagePath": "staticwebassets\\img\\feliz.png"
+    },
+    {
+      "Id": "D:\\Cursos\\BlazeAMole\\BlazeAMole\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Cursos\\BlazeAMole\\BlazeAMole\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlazeAMole.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BlazeAMole.props",
+      "PackagePath": "build\\BlazeAMole.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazeAMole.props",
+      "PackagePath": "buildMultiTargeting\\BlazeAMole.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BlazeAMole.props",
+      "PackagePath": "buildTransitive\\BlazeAMole.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
